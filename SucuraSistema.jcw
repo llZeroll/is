@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Sucura Sistema</label>
+	</settings>
+	<users>
+		<user>
+			<path>Sucura Sistema.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Sucura Sistema.jcp</path>
+		</project>
+	</projects>
+</workspace>
